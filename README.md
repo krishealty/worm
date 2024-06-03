@@ -1,25 +1,11 @@
-<h3 align="center">
-    <img src="https://user-images.githubusercontent.com/54115104/116760735-6da1e780-aa1e-11eb-8c6f-530386487671.png" alt="logo" height="250px">
-</h3>
+<img src="logo.png" alt="logo" align="center">
 
 <p align="center">
-    <b>Ghost Framework</b>
+    <b>Worm Framework</b>
     <br>
     <br>
-    <a href="https://entysec.com">
-        <img src="https://img.shields.io/badge/developer-EntySec-blue.svg">
-    </a>
-    <a href="https://github.com/EntySec/Ghost">
+    <a href="https://github.com/krishealty/worm">
         <img src="https://img.shields.io/badge/language-Python-blue.svg">
-    </a>
-    <a href="https://github.com/EntySec/Ghost/forks">
-        <img src="https://img.shields.io/github/forks/EntySec/Ghost?style=flat&color=green">
-    </a>
-    <a href="https://github.com/EntySec/Ghost/stargazers">
-        <img src="https://img.shields.io/github/stars/EntySec/Ghost?style=flat&color=yellow">
-    </a>
-    <a href="https://www.codefactor.io/repository/github/entysec/ghost">
-        <img src="https://www.codefactor.io/repository/github/entysec/ghost/badge">
     </a>
     <br>
     <br>
@@ -28,6 +14,8 @@
     <br>
     <br>
     <b>Installation</b><br>
-    <br>
-    <code>pip3 install git+https://github.com/EntySec/Ghost</code>
+    <br>   
+    
+    pip3 install git+https://github.com/krishealty/worm
+
 </p>
