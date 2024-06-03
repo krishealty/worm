@@ -9,8 +9,7 @@
     </a>
     <br>
     <br>
-    Ghost Framework is an Android post-exploitation framework that
-    <br>exploits the Android Debug Bridge to remotely access an Android device.
+    Worm is an Android post exploitation Framework to gain remote access of any Android device by exploiting Android Debug Bridge.
     <br>
     <br>
     <b>Installation</b><br>
